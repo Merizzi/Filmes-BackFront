@@ -23,8 +23,9 @@ namespace ProjetoFilmes.Domains
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Data Source=PRISCILA\\SqlExpress; Initial Catalog= Filmes; User Id=sa; pwd=sa@132");
+                   string database = "DESKTOP-HU5NGOQ";
+
+                optionsBuilder.UseSqlServer($"Data Source={database}; Initial Catalog= Filmes; User Id=sa; pwd=sa@132");
             }
         }
 

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\01.filmes",
+    "\\01.filmes\\backend",
+    "\\01.filmes\\backend\\ProjetoFilmes",
+    "\\01.filmes\\backend\\ProjetoFilmes\\ProjetoFilmes",
+    "\\01.filmes\\backend\\ProjetoFilmes\\ProjetoFilmes\\Contexts",
+    "\\01.filmes\\backend\\ProjetoFilmes\\ProjetoFilmes\\Controllers"
+  ],
+  "SelectedNode": "\\01.filmes\\backend\\ProjetoFilmes\\ProjetoFilmes\\Controllers\\ContaController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -14,3 +14,6 @@ C:\Users\priscila.gigueira\Desktop\SENAI-ESTUDOS\backend\01.filmes\backend\Proje
 C:\Users\priscila.gigueira\Desktop\SENAI-ESTUDOS\backend\01.filmes\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.dll
 C:\Users\priscila.gigueira\Desktop\SENAI-ESTUDOS\backend\01.filmes\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.xml
 C:\Users\priscila.gigueira\Desktop\SENAI-ESTUDOS\backend\01.filmes\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.pdb
+C:\Users\43097878866\Desktop\Filmes-BackFront\backend\01.filmes\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.dll
+C:\Users\43097878866\Desktop\Filmes-BackFront\backend\01.filmes\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.xml
+C:\Users\43097878866\Desktop\Filmes-BackFront\backend\01.filmes\backend\ProjetoFilmes\ProjetoFilmes\obj\Debug\netcoreapp2.1\ProjetoFilmes.pdb
