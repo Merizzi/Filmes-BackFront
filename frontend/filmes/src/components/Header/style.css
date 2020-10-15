@@ -1,0 +1,36 @@
+.Header{
+    background-color: #98D2D3;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.section-header{
+    height: 100%;
+    width: 1024px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.section-container-logo1{
+    display: flex;
+	flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+}
+
+
+.section-container-nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 40%;
+}
+
+.link {
+    list-style: none;
+    text-decoration: none;
+    color: #4b2124;
+    font-size: 1.2em;
+}

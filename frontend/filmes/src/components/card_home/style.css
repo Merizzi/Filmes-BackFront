@@ -1,0 +1,13 @@
+.root {
+    width: 45%;
+    height: 100%;
+}
+
+.root > img:nth-child(1){
+    width: 75px;
+}
+
+.root > p{
+    font-size: 0.8em;
+    width: 420px;
+}
