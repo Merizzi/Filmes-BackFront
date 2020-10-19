@@ -43,11 +43,6 @@ function Login() {
     .catch(err => console.log(err))
   }
 
-
-
-
-
-
 return (
   <div className="Login">
     <Header description="Faça o Login e acesse a Coletanea" />
@@ -55,10 +50,14 @@ return (
       <div className="Login-section">
         <div className="section-log">
           <h1>Login</h1>
-          <br />
+          <form onSubmit={ event => {
+            event.preventDefault();
+            login();
+          }}>
           <Input type="email" label="E-mail" name="email" onChange={e => setEmail(e.target.value)}/>
           <Input type="password" label="Senha" name="senha" onChange={e => setSenha(e.target.value)}/>
-          <Button onClick={() => console.log("Enviou")} text={"Enviar"} />
+          <Button value="Enviar" />
+          </form>
         </div>
       </div>
     </main>

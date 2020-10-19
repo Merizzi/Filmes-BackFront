@@ -1,0 +1,16 @@
+thead{
+    display: unset;
+    width: 50%;
+}
+
+#divConteudo{
+    height: 50vh;
+}
+
+#tabela{
+    width:100%;
+    border:solid 1px;
+    text-align:left;
+    border-collapse:collapse; 
+}
+

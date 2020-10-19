@@ -27,7 +27,7 @@ function Cadastro() {
                     <option value="usuario">Usuário</option>
                 </select>
                 <Input type="password" label="Senha" />
-                <Button onClick={() => console.log("Enviou")} text={"Enviar"}/>          
+                <Button value="Enviar" />          
               </div>
             </div>
         </main>      
