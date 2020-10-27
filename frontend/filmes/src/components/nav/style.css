@@ -1,0 +1,26 @@
+
+.principal{
+  height: 800px;
+}
+
+.side{
+  width: 60px;
+  background-color: violet;
+  display:flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+/* nav {
+    background-color: red;
+  }
+  
+  .menu {
+    list-style: none;
+  }
+  
+  .menu .link {
+    text-decoration: none;
+    color: #4b2142;
+    font-weight: bold;
+  } */

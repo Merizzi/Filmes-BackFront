@@ -7,6 +7,7 @@ import Filmes from './pages/Filmes';
 import Genero from './pages/Genero';
 import Perfil from './pages/Perfil';
 import Filtro from './pages/Filtro';
+import Teste from './pages/Teste';
 
 function Routers() {
   return (
@@ -18,6 +19,7 @@ function Routers() {
       <Route path="/genero" component={Genero}/>
       <Route path="/perfil" component={Perfil}/>
       <Route path="/filtro" component={Filtro}/>
+      <Route path="/teste" component={Teste}/>
     </BrowserRouter>
   );
 }

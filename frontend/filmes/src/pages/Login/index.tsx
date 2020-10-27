@@ -5,8 +5,11 @@ import Footer from '../../components/Footer';
 import '../../assets/global.css';
 import '../Login/style.css';
 
+import cinema from './../../assets/images/cinema.png';
+
 import Input from '../../components/input';
 import Button from '../../components/button';
+import Button2 from '../../components/button2';
 
 function Login() {
 
@@ -56,7 +59,11 @@ return (
           }}>
           <Input type="email" label="E-mail" name="email" onChange={e => setEmail(e.target.value)}/>
           <Input type="password" label="Senha" name="senha" onChange={e => setSenha(e.target.value)}/>
-          <Button value="Enviar" />
+          <Button2 value="Entrar com    |"
+                form={"teste"}
+                altImage={"Cinema"}
+                image={cinema}
+            />
           </form>
         </div>
       </div>
