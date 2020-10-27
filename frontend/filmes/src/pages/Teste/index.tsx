@@ -12,25 +12,27 @@ function Teste() {
 
     return (
         <div className="Teste">
-            <Button2 value="Entrar com    |"
-                form={"teste"}
-                altImage={"Cinema"}
-                image={cinema}
-            />
-
+            <Nav></Nav>
         </div>
     );
 }
 
 export default Teste;
 
+
+{/* <Button2 value="Entrar com    |"
+    form={"teste"}
+    altImage={"Cinema"}
+    image={cinema}
+/> */}
+
 // const [isModalOpen, setModalState] = React.useState(false);
 
 // const toggleModal = () => setModalState(!isModalOpen);
 // <button className="app_btn" onClick={toggleModal}>
-                        // </button>
-                        // <Modal
-                        // title={"Modal"}
-                        //     isOpen={isModalOpen}
-                        //     onClose={toggleModal}
-                        // ></Modal>
+// </button>
+// <Modal
+// title={"Modal"}
+//     isOpen={isModalOpen}
+//     onClose={toggleModal}
+// ></Modal>
